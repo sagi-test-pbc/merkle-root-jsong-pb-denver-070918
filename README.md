@@ -28,9 +28,9 @@ while len(current_level) > 1:
 print(current_level[0].hex())
 ```
 
-### Exercise 4
+### Try it
 
-#### 4.1. Calculate the Merkle Root given these hashes
+#### Calculate the Merkle Root given these hashes
 ```
 42f6f52f17620653dcc909e58bb352e0bd4bd1381e2955d19c00959a22122b2e
 94c3af34b9667bf787e1c6a0a009201589755d01d02fe2877cc69b929d2418d4
